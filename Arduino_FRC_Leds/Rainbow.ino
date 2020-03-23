@@ -18,7 +18,7 @@ void nextPattern()
 
 void rainbow() 
 {
-  fill_rainbow( leds, NUM_LEDS, gHue, 7);
+  fill_rainbow( leds, NUM_LEDS, gHue, 4);
 }
 
 void rainbowWithGlitter() 
